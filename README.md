@@ -4,6 +4,9 @@
 
 This dashboard provides an analysis of employee stress and depression levels within the company **Lua Health**. The visualization contains various breakdowns and trends to help understand employee well-being.
 
+## Dashboard File
+You can access the full dashboard file here: [Employee Stress and Depression Analytics Dashboard](https://github.com/Soyonbarman/Employee-Stress-and-Depression-Analytics-Dashboard/blob/main/Lua%20V1.pbix)
+
 ## Key Metrics
 - **Total Employees:** 2,500 (-1%)
 - **Total Stressed Employees:** 2,495 (-26%)
